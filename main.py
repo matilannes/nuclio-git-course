@@ -1,2 +1,3 @@
 print("hello world")
 print("hello world from local")
+print("hello world from server")
